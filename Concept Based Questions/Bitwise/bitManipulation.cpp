@@ -1,3 +1,5 @@
+// https://www.codingninjas.com/studio/problems/bit-manipulation_8142533
+
 #include <iostream>
 #include <vector>
 using namespace std;
